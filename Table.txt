@@ -1,0 +1,19 @@
+<HTML>
+<HEAD>
+<TITLE>curriculum vitae </TITLE>
+</HEAD>
+<BODY>
+<TABLE BORDER="1">
+<TR>
+<TH>S.NO</TH>
+<TH>NAME</TH>
+<TH>MATHS</TH>
+<TH>COMPUTER</TH>
+<TH>SCIENCE</TH>
+<TH>URDU</TH>
+<TH>ENGLISH</TH>
+<TH>TOTAL</TH>
+</TR>
+</TABLE>
+
+
